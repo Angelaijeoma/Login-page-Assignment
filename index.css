@@ -56,7 +56,7 @@ form input {
 }
 .innersquare input[type="Submit"]
 {
-    border-radius: 5px;
+    border-radius: 6px;
     color: rgb(90, 89, 89);
     border: none;
     cursor: pointer;
